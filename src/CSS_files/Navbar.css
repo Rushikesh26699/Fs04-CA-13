@@ -1,0 +1,19 @@
+.navbar{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: skyblue;
+
+}
+.navbar ul{
+    height: 90%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 700;
+    list-style-type: none;
+}
